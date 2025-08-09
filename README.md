@@ -24,12 +24,6 @@ The goal is to provide a robust, scalable, and secure remote access infrastructu
 
 ---
 
-## Architecture Diagram
-
-*(Include a diagram here if available)*
-
----
-
 ## Technologies Used
 
 - Windows Server with Network Policy Server (NPS) role
@@ -82,8 +76,7 @@ This project is currently complete and not open for contributions.
 
 ## License
 
-Specify your license here (e.g., MIT, GPL) or state if proprietary.
-
+MIT LIcense 
 ---
 
 ## Contact
